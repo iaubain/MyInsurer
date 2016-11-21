@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Insurer</string>
+    <string name="action_settings">Settings</string>
+    <string name="services">Services</string>
+    <string name="info">Info</string>
+    <string name="backdrop_title">GET INSURED</string>
+    <string name="backdrop_subtitle">ELEPHANT INSURANCE BROKER</string>
+    <string name="serviceIconDesc">Service Icon Image</string>
+    <string name="overflowImageDesc">Overflow Image Icon</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_services">Service</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="dialog_title">Notification</string>
+</resources>
